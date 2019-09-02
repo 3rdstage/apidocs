@@ -1,0 +1,5 @@
+springfox.documentation
+springfox.documentation.annotations
+springfox.documentation.builders
+springfox.documentation.schema
+springfox.documentation.service
