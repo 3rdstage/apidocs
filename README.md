@@ -10,6 +10,7 @@
 |                            |                   | [4.4.1](https://3rdstage.github.io/apidocs/org.web3j.abi/4.4.1/) |   |
 |                            |                   | [4.5.17](https://3rdstage.github.io/apidocs/org.web3j.abi/4.5.17/) |   |
 |                            | `org.web3j » utils` | [4.5.17](https://3rdstage.github.io/apidocs/org.web3j.utils/4.5.17/) |   |
+|                            | `org.web3j » crypto` | [4.5.17](https://3rdstage.github.io/apidocs/org.web3j.crypto/4.5.17/) |   |
 | [SpringFox](https://springfox.github.io/springfox/) | `io.springfox » springfox-core` | [2.9.2](https://3rdstage.github.io/apidocs/io.springfox.springfox-core/2.9.2/) |   |
 |                                                     | `io.springfox » springfox-swagger2` | [2.9.2](https://3rdstage.github.io/apidocs/io.springfox.springfox-swagger2/2.9.2/) |   |
 
